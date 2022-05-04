@@ -14,8 +14,8 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
-    "@theatre/core": "file:.yalc/@theatre/core",
-    "@theatre/r3f": "file:.yalc/@theatre/r3f",
+    "@theatre/core": "https://packages.fulop.dev/theatre-core-7e22c4f.tgz",
+    "@theatre/r3f": "https://packages.fulop.dev/theatre-r3f-7e22c4f.tgz",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-icons": "^4.2.0",
@@ -44,6 +44,6 @@
     ]
   },
   "devDependencies": {
-    "@theatre/studio": "file:.yalc/@theatre/studio"
+    "@theatre/studio": "https://packages.fulop.dev/theatre-studio-7e22c4f.tgz"
   }
 }

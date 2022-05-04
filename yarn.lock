@@ -1834,23 +1834,24 @@
   dependencies:
     "@babel/runtime" "^7.12.5"
 
-"@theatre/core@file:.yalc/@theatre/core":
+"@theatre/core@https://packages.fulop.dev/theatre-core-7e22c4f.tgz":
   version "0.4.8-dev.3"
+  resolved "https://packages.fulop.dev/theatre-core-7e22c4f.tgz#7bbfa38236472d3bcdc02017d41b9d6b60a972a0"
   dependencies:
-    "@theatre/dataverse" "0.4.8-dev.3"
+    "@theatre/dataverse" "https://packages.fulop.dev/theatre-dataverse-7e22c4f.tgz"
 
-"@theatre/dataverse@0.4.8-dev.3":
+"@theatre/dataverse@https://packages.fulop.dev/theatre-dataverse-7e22c4f.tgz":
   version "0.4.8-dev.3"
-  resolved "https://registry.yarnpkg.com/@theatre/dataverse/-/dataverse-0.4.8-dev.3.tgz#36d0945497aea5aead4e096c9ba8b9fd051d4e7d"
-  integrity sha512-AW5vj8SZoUA4E8jDPltBGwKLQVj3GBLyi4t98nF7ZTcahfA7xDTTNZ+Yzf9T36gDYfQbPOKow2NZgrKqnhHO+Q==
+  resolved "https://packages.fulop.dev/theatre-dataverse-7e22c4f.tgz#3245ab30a4c1a945bb716001d8222f8a6ebf3732"
   dependencies:
     lodash-es "^4.17.21"
 
-"@theatre/r3f@file:.yalc/@theatre/r3f":
+"@theatre/r3f@https://packages.fulop.dev/theatre-r3f-7e22c4f.tgz":
   version "0.4.0-dev.23"
+  resolved "https://packages.fulop.dev/theatre-r3f-7e22c4f.tgz#34859689adb5a43fa7c68793dab6ae57544b9d72"
   dependencies:
     "@react-three/drei" "^7.3.1"
-    "@theatre/react" "0.4.8-dev.3"
+    "@theatre/react" "https://packages.fulop.dev/theatre-react-7e22c4f.tgz"
     lodash-es "^4.17.21"
     polished "^4.1.3"
     react-icons "^4.2.0"
@@ -1861,19 +1862,19 @@
     styled-components "^5.3.0"
     zustand "^3.5.1"
 
-"@theatre/react@0.4.8-dev.3":
+"@theatre/react@https://packages.fulop.dev/theatre-react-7e22c4f.tgz":
   version "0.4.8-dev.3"
-  resolved "https://registry.yarnpkg.com/@theatre/react/-/react-0.4.8-dev.3.tgz#96ba33a7943919656d60a65bbb8703b78d1bf21a"
-  integrity sha512-efDSHTbXZQcTuiMRAcWrrKldIXBhXsSiqPR0MzEl/j8+obXxiB2YvmQkTrC0z4dDhX1S8d3Z4ftiuDyKMpYcxg==
+  resolved "https://packages.fulop.dev/theatre-react-7e22c4f.tgz#56037375d25ae04386d207e60f1cd75c54f40749"
   dependencies:
-    "@theatre/dataverse" "0.4.8-dev.3"
+    "@theatre/dataverse" "https://packages.fulop.dev/theatre-dataverse-7e22c4f.tgz"
     lodash-es "^4.17.21"
     queue-microtask "^1.2.3"
 
-"@theatre/studio@file:.yalc/@theatre/studio":
+"@theatre/studio@https://packages.fulop.dev/theatre-studio-7e22c4f.tgz":
   version "0.4.8-dev.3"
+  resolved "https://packages.fulop.dev/theatre-studio-7e22c4f.tgz#7280cdcc9653eae1316c3226645d00984bb76f85"
   dependencies:
-    "@theatre/dataverse" "0.4.8-dev.3"
+    "@theatre/dataverse" "https://packages.fulop.dev/theatre-dataverse-7e22c4f.tgz"
     react "^17.0.2"
     react-dom "^17.0.2"
     styled-components "^5.3.0"
