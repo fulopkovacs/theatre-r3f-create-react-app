@@ -14,8 +14,8 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
-    "@theatre/core": "https://theatrejs-packages.nyc3.cdn.digitaloceanspaces.com/@theatre/theatre-core-3c6b62cc.tgz",
-    "@theatre/r3f": "https://theatrejs-packages.nyc3.cdn.digitaloceanspaces.com/@theatre/theatre-r3f-3c6b62cc.tgz",
+    "@theatre/core": "https://theatrejs-packages.nyc3.cdn.digitaloceanspaces.com/@theatre/core-d02400d.tgz",
+    "@theatre/r3f": "https://theatrejs-packages.nyc3.cdn.digitaloceanspaces.com/@theatre/r3f-d02400d.tgz",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-icons": "^4.2.0",
@@ -44,6 +44,6 @@
     ]
   },
   "devDependencies": {
-    "@theatre/studio": "https://theatrejs-packages.nyc3.cdn.digitaloceanspaces.com/@theatre/theatre-studio-3c6b62cc.tgz"
+    "@theatre/studio": "https://theatrejs-packages.nyc3.cdn.digitaloceanspaces.com/@theatre/studio-d02400d.tgz"
   }
 }
