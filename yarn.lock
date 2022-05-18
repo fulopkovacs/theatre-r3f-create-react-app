@@ -1834,27 +1834,27 @@
   dependencies:
     "@babel/runtime" "^7.12.5"
 
-"@theatre/core@0.4.8-insiders.3564b5c":
-  version "0.4.8-insiders.3564b5c"
-  resolved "https://registry.yarnpkg.com/@theatre/core/-/core-0.4.8-insiders.3564b5c.tgz#bd182de9190dacf64973eb998eca3cea086ea992"
-  integrity sha512-dhkwG0dVq9hW2RxfVnC05XVcOdv+5t/W2eWVHh3bYBPjq9t+y4j7ePhhU4adBChZ6sQvGffYKneM557Zpp7/0w==
+"@theatre/core@0.4.8-insiders.8520c74":
+  version "0.4.8-insiders.8520c74"
+  resolved "https://registry.yarnpkg.com/@theatre/core/-/core-0.4.8-insiders.8520c74.tgz#47da59ddb97f46c541b86cbdfe5040b7de92eb94"
+  integrity sha512-rVxOZxvV6gZtRZTWCltiyvvVpF9FgAPnJiEoMDAXFxeKRJ8GlF8K9FF7wKeYFIJv9U6C9V7NZz9vSpZKGYVBuA==
   dependencies:
-    "@theatre/dataverse" "0.4.8-insiders.3564b5c"
+    "@theatre/dataverse" "0.4.8-insiders.8520c74"
 
-"@theatre/dataverse@0.4.8-insiders.3564b5c":
-  version "0.4.8-insiders.3564b5c"
-  resolved "https://registry.yarnpkg.com/@theatre/dataverse/-/dataverse-0.4.8-insiders.3564b5c.tgz#e06363c159cfbcd7e82909ffeedee2c2974a4578"
-  integrity sha512-kvvOgWoyM0aLVs55HA/sJsd5kqjPdITx5nogStWH9011vLF++rK6hNYSEf48k3V9DQcEkpaM5UfzotkerT0ldA==
+"@theatre/dataverse@0.4.8-insiders.8520c74":
+  version "0.4.8-insiders.8520c74"
+  resolved "https://registry.yarnpkg.com/@theatre/dataverse/-/dataverse-0.4.8-insiders.8520c74.tgz#00041a703c1c27d343cc9a5c08a6f4169a944157"
+  integrity sha512-fLlxsNt3KSkEl+XDIzXHCxaF4m8TuuSZlO8WaE+YKpe0vcX2On9ECC+ezsOLeWW8OueJdscqHD2nJV0QZV1pvA==
   dependencies:
     lodash-es "^4.17.21"
 
-"@theatre/r3f@0.4.0-insiders.3564b5c":
-  version "0.4.0-insiders.3564b5c"
-  resolved "https://registry.yarnpkg.com/@theatre/r3f/-/r3f-0.4.0-insiders.3564b5c.tgz#37c54c9c98dff02da36274a01eea901832db9556"
-  integrity sha512-HfPsB1W9LKCp/sBE2lMX8AxWwRF4afezf0TQ4Q94CujZhKe1t/yod5xsISVKEqwR4i2PrTc8i88lOBbv29PqSg==
+"@theatre/r3f@0.4.0-insiders.8520c74":
+  version "0.4.0-insiders.8520c74"
+  resolved "https://registry.yarnpkg.com/@theatre/r3f/-/r3f-0.4.0-insiders.8520c74.tgz#c2f4d05acf88d1f5444b8555b22c04643b8c8f0d"
+  integrity sha512-JubWWUVObhi3LNCrMg62qde3ly/NS1BWS0gRtUDoVmF2KupHOumuBza3MfHzB3rZnoiL9yc6GHahS7kB2XDjWA==
   dependencies:
     "@react-three/drei" "^7.3.1"
-    "@theatre/react" "0.4.8-insiders.3564b5c"
+    "@theatre/react" "0.4.8-insiders.8520c74"
     lodash-es "^4.17.21"
     polished "^4.1.3"
     react-icons "^4.2.0"
@@ -1865,21 +1865,21 @@
     styled-components "^5.3.0"
     zustand "^3.5.1"
 
-"@theatre/react@0.4.8-insiders.3564b5c":
-  version "0.4.8-insiders.3564b5c"
-  resolved "https://registry.yarnpkg.com/@theatre/react/-/react-0.4.8-insiders.3564b5c.tgz#8bb972a40cdc3d8d64d66ec5e11c317166c836c4"
-  integrity sha512-QQgy2rFy2XPYNYEmsDZRDmZ035n7AMQfO49BESPMhurfdCSRjEgBOFA05CWk0qHAPLgwnpriZoRKwfoyPwkjVA==
+"@theatre/react@0.4.8-insiders.8520c74":
+  version "0.4.8-insiders.8520c74"
+  resolved "https://registry.yarnpkg.com/@theatre/react/-/react-0.4.8-insiders.8520c74.tgz#87c6bcac888d629a98fdf40f52cf958fb60e5585"
+  integrity sha512-+HUw3pkCb1cw/iQyf8HgeJ3LSJuyxreUIOof/Au4GeT+NxPwrLdm4j12Fs7ax2U9XoSCwBzloZMxCh14ipoJsA==
   dependencies:
-    "@theatre/dataverse" "0.4.8-insiders.3564b5c"
+    "@theatre/dataverse" "0.4.8-insiders.8520c74"
     lodash-es "^4.17.21"
     queue-microtask "^1.2.3"
 
-"@theatre/studio@0.4.8-insiders.3564b5c":
-  version "0.4.8-insiders.3564b5c"
-  resolved "https://registry.yarnpkg.com/@theatre/studio/-/studio-0.4.8-insiders.3564b5c.tgz#e9cc0b1ba18c2789017ebf5a22cd1656c4c4dca6"
-  integrity sha512-2PM2m7H4faIUhIKYe2uO8ggzAl/xLwv55w2yecAxYG1YEw0TF1x+cgFlZbCwEb4g5gkVm24e0cdxxaBJ9xqCoQ==
+"@theatre/studio@0.4.8-insiders.8520c74":
+  version "0.4.8-insiders.8520c74"
+  resolved "https://registry.yarnpkg.com/@theatre/studio/-/studio-0.4.8-insiders.8520c74.tgz#a9c84326971008440c3b5a0b821a1f56fc84eb75"
+  integrity sha512-4aGVjdJlUpct91BZEHzVXzuLBJwTConLkSymuLqGG17ACo+NrdaxovgpBk3dC4bXlxcHWi4CriaVyRkHGgi0OQ==
   dependencies:
-    "@theatre/dataverse" "0.4.8-insiders.3564b5c"
+    "@theatre/dataverse" "0.4.8-insiders.8520c74"
     react "^17.0.2"
     react-dom "^17.0.2"
     styled-components "^5.3.0"
